@@ -7,7 +7,13 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f2f2f2;
+    background-image: url(https://media.istockphoto.com/id/1212789876/video/animated-video-of-woman-typing-on-laptop-keyboard-top-view-working-space-animation.jpg?s=640x640&k=20&c=TZHXAFotfiC08O_v5WD25HXqf593bDIAQZbAs3nxvpU=);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+
+
 }
 
 header {
